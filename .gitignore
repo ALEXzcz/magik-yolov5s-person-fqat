@@ -11,3 +11,7 @@ runs/
 *.mgk
 *.mk.h
 *.log
+
+data/
+anytrek_2310
+anytrek_detect

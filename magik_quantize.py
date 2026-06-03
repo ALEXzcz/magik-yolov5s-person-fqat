@@ -24,7 +24,7 @@ def get_magik_quantizer(bit=4):
     # get quantize_parameter
     quantize_parameter = {"weight_bitwidth" : bit,
                           "output_bitwidth" : bit,
-                          "target_device" : "T32", # platform
+                          "target_device" : "T33", # platform
                           "feature_quantize_method" : "DAQS",
                           "feature_calibration_method" : "MSE",
                           "weight_quantize_method" : "DAQS",
