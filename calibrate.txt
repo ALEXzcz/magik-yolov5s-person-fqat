@@ -1,0 +1,16 @@
+data/calibrate_data/000000398309.jpg
+data/calibrate_data/000000459763.jpg
+data/calibrate_data/000000158127.jpg
+data/calibrate_data/000000116074.jpg
+data/calibrate_data/000000553495.jpg
+data/calibrate_data/000000561891.jpg
+data/calibrate_data/000000558523.jpg
+data/calibrate_data/000000400599.jpg
+data/calibrate_data/000000402143.jpg
+data/calibrate_data/000000082548.jpg
+data/calibrate_data/000000328818.jpg
+data/calibrate_data/000000371608.jpg
+data/calibrate_data/000000068974.jpg
+data/calibrate_data/000000462899.jpg
+data/calibrate_data/000000402142.jpg
+data/calibrate_data/000000432727.jpg
