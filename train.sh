@@ -28,14 +28,14 @@ export NCCL_DEBUG=info
 #     --optimizer Adam \
 #     --bit 4
 
-# 4bit anytrek_2310:
+# 4bit anytrek_person:
 python3 train.py \
-    --data data/anytrek_2310.yaml \
+    --data data/anytrek_person.yaml \
     --cfg models/yolov5s.yaml \
     --weights checkpoint/32W32F/weights/best.pt \
     --batch-size 16 \
     --hyp data/hyp.scratch.yaml \
-    --project ./runs/train/yolov5s-anytrek-4bit \
+    --project ./runs/train/yolov5s-anytrek-person-4bit \
     --epochs 5 \
     --device 0 \
     --optimizer Adam \

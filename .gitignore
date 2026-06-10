@@ -6,12 +6,11 @@ magik_transformer-1.1.0-py3-none-any.whl
 magik-transform-tools
 
 runs/
-*.pt
-*.onnx
-*.mgk
 *.mk.h
 *.log
+*.bin
+*.npy
+*.xml
+*.iml
 
 data/
-anytrek_2310
-anytrek_detect
